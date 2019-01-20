@@ -57,6 +57,22 @@ footer {
     .main-content {
         width: 60%;
         margin: 0 auto;
+
+    }
+
+    .column {
+        display: inline-block;
+        margin-right: -4px;
+        vertical-align: top;
+    }
+
+    .first {
+        width: 30%;
+
+    }
+
+    .second {
+        width: 70%;
     }
 
 }
