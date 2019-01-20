@@ -44,6 +44,17 @@ footer {
     box-shadow: 0px 2px 5px lightgray;
 }
 
+.nav li {
+    display: inline-block;
+    padding: 10px;
+    background-color: white;
+}
+
+.nav {
+    list-style-type: none;
+    text-align: center;
+}
+
 .main-content {
     width: 90%;
     margin: auto;
