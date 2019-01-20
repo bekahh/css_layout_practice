@@ -9,7 +9,7 @@ html {
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    padding-top: 156px;
+    padding-top: 307px;
     margin-bottom: 90px;
 }
 
@@ -85,6 +85,10 @@ footer {
 /* Media Queries */
 @media (min-width: 769px) {
     
+    body {
+        padding-top: 156px;
+    }
+
     .nav li {
         display: inline-block;
         background-color: white;
