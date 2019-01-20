@@ -5,13 +5,9 @@
     margin: 0;
 }
 
-html, body {
-    height: 100%;
-}
-
 body {
     font-family: Arial, Helvetica, sans-serif;
-    padding-top: 101px;
+    padding-top: 100px;
 }
 
 header {
@@ -27,21 +23,16 @@ h1 {
 footer {
     text-align: center;
     background-color: lightgray; 
-    padding: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
 }
 
 /* Classes */
-.body-wrap {
-    min-height: 100%;
-    margin-bottom: -60px;
-}
 
-
-.body-wrap:after {
-    content: "";
-    display: block;
-    height: 60px;
-}
 
 .main-header {
     position: fixed;
