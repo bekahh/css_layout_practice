@@ -27,7 +27,7 @@ h1 {
 footer {
     text-align: center;
     background-color: lightgray; 
-    height:60px;
+    padding: 50px;
 }
 
 /* Classes */
@@ -35,7 +35,6 @@ footer {
     min-height: 100%;
     margin-bottom: -60px;
 }
-
 
 
 .body-wrap:after {
