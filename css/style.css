@@ -51,6 +51,11 @@ footer {
     padding-right: 5px;
 }
 
+.welcome-header,
+.welcome  {
+    text-align: center;
+}
+
 
 /* Media Queries */
 @media (min-width: 769px) {
