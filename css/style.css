@@ -10,6 +10,7 @@ html {
 body {
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 100px;
+    margin-bottom: 90px;
 }
 
 header {
@@ -34,7 +35,6 @@ footer {
 }
 
 /* Classes */
-
 
 .main-header {
     position: fixed;
