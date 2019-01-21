@@ -97,7 +97,7 @@ footer {
 
 
     .main-content {
-        width: 60%;
+        width: 50%;
         margin: 0 auto;
     }
 
@@ -108,12 +108,12 @@ footer {
     }
 
     .first {
-        width: 30%;
+        width: 40%;
 
     }
 
     .second {
-        width: 70%;
+        width: 60%;
     }
 
 }
